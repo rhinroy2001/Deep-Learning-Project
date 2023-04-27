@@ -6,9 +6,9 @@ This file must be uploaded to colab manually in order to use it
 To run the thumbnail CNN:
 
 First, download the zipped file 'data.zip' which can be accessed through the link in the file titled "Thumbnail Data".
-Then, open the DeepLearningProjectThumbnail.ipynb
-Upload the file 'data.zip' locally
-Run 'Required Imports' cell
+Then, open the DeepLearningProjectThumbnail.ipynb.
+Upload the file 'data.zip' locally.
+Run 'Required Imports' cell.
 Skip the classifying methods since the data is already sorted in the zip file I provided; simply go down to the "unzip file" cell and run every cell below 
-it besides the ones that say not to run
+it besides the ones that say not to run.
 It takes 6 hours so have fun!
